@@ -51,22 +51,6 @@ I have led architecture and hardening efforts for high-stakes healthcare softwar
 
 ---
 
-## Contributions & Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=drjseifu3003&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drjseifu3003&theme=github_dark" alt="Activity Overview" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=drjseifu3003&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drjseifu3003&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## Contact
 I partner with teams that need senior engineering leadership and production-grade execution.
 
