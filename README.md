@@ -3,6 +3,7 @@
   
   ### 🏛️ Software Architect | Senior Full-Stack Engineer
   **Specializing in Agentic AI, RAG Architectures & High-Stakes SaaS**
+  <br/>
 
   [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://derejeseifu.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dereje-seifu-834010199)
