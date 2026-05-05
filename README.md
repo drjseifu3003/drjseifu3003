@@ -1,5 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Dereje%20Seifu&fontSize=70&animation=fadeIn" width="100%" />
+  ### 🏛️ Software Architect | Senior Full-Stack Engineer
+  **Specializing in Agentic AI, RAG Architectures & High-Stakes SaaS**
 
   <br/>
 
@@ -9,7 +11,7 @@
   [![Consultation](https://img.shields.io/badge/BOOK_A_CALL-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/derejeseifu3030/30min)
 
 </div>
----
+
 
 ### 🌐 The Architectural Vision
 I transform complex business requirements into **production-hardened AI ecosystems**. My work specializes in bridging the gap between innovative **Agentic AI** concepts and the rigorous stability required for **FDA-cleared** medical platforms and enterprise SaaS.
