@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:052e16,20:14532d,40:166534,60:15803d,80:16a34a,100:4ade80&height=220&section=header&text=Dereje%20Seifu&fontSize=64&fontColor=ecfdf5&animation=fadeIn&fontAlignY=38&desc=Software%20Architect%20•%20Senior%20Full-Stack%20Engineer%20•%20Agentic%20AI%20%26%20RAG&descAlignY=58&descSize=18&descAlign=50" width="100%" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Dereje%20Seifu&fontSize=64&fontColor=ecfdf5&animation=fadeIn&fontAlignY=38&desc=Software%20Architect%20%7C%20Senior%20Full-Stack%20Engineer%20%7C%20Agentic%20AI%20%26%20RAG&descAlignY=58&descSize=18&descAlign=50&color=0:14532d,100:22c55e" width="100%" />
   <a href="https://derejeseifu.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-166534?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
