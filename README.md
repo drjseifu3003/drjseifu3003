@@ -45,10 +45,10 @@ I have led architecture and hardening efforts for high-stakes healthcare softwar
 ---
 
 ## Selected Projects
-- **AI Voice Receptionist** — Production voice automation for inbound operations and workflow execution
-- **Roasform** — Lead generation platform with CRM-integrated backend workflows
-- **IntuitySync AI** — AI-driven social automation platform designed for scale
-- **Water Utility Management System** — Enterprise SaaS platform supporting high user volume and operational reliability
+- **AI Voice Receptionist** - Production voice automation for inbound operations and workflow execution
+- **Roasform** - Lead generation platform with CRM-integrated backend workflows
+- **IntuitySync AI** - AI-driven social automation platform designed for scale
+- **Water Utility Management System** - Enterprise SaaS platform supporting high user volume and operational reliability
 
 ---
 
