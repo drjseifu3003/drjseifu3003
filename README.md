@@ -1,40 +1,39 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:022c22,25:065f46,50:16a34a,75:22c55e,100:86efac&height=220&section=header&text=Dereje%20Seifu&fontSize=64&fontColor=f0fdf4&animation=fadeIn&fontAlignY=38&desc=Software%20Architect%20•%20Senior%20Full-Stack%20Engineer%20•%20Agentic%20AI%20%26%20RAG&descAlignY=58&descSize=18&descAlign=50" width="100%" />
-  <h3>Software Architect • Senior Full-Stack Engineer</h3>
-  <p><strong>Agentic AI • RAG Systems • Production SaaS Platforms</strong></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:052e16,20:14532d,40:166534,60:15803d,80:16a34a,100:4ade80&height=220&section=header&text=Dereje%20Seifu&fontSize=64&fontColor=ecfdf5&animation=fadeIn&fontAlignY=38&desc=Software%20Architect%20•%20Senior%20Full-Stack%20Engineer%20•%20Agentic%20AI%20%26%20RAG&descAlignY=58&descSize=18&descAlign=50" width="100%" />
 
   <a href="https://derejeseifu.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-14532d?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-166534?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/dereje-seifu-834010199">
-    <img src="https://img.shields.io/badge/LinkedIn-166534?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-15803d?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:Derejeseifu3030@gmail.com">
-    <img src="https://img.shields.io/badge/Email-15803d?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-16a34a?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://calendly.com/derejeseifu3030/30min">
-    <img src="https://img.shields.io/badge/Build%20a%20Project%20Together-16a34a?style=for-the-badge&logo=googlecalendar&logoColor=white" />
+    <img src="https://img.shields.io/badge/Build%20a%20Project-22c55e?style=for-the-badge&logo=googlecalendar&logoColor=0b2e13" />
   </a>
 </div>
 
 ---
 
 ## About Me
-I architect and build production-ready software systems for startups and growth-stage teams.  
-My focus is **Agentic AI** and **RAG system architecture**, delivered with full-stack ownership from design to cloud deployment.
 
-- End-to-end ownership: architecture, implementation, deployment, and iteration  
-- Production-first engineering: reliability, security, observability, and performance  
-- Strong delivery across AI products, SaaS platforms, and high-stakes environments  
+I am a Software Architect and Senior Full-Stack Engineer focused on building production-ready AI and SaaS systems.
+
+I specialize in **Agentic AI** and **RAG architectures**, translating complex product requirements into secure, scalable, and maintainable systems. I work end-to-end across architecture, implementation, deployment, and optimization.
+
+My core delivery model is production-first engineering: clear architecture decisions, high code quality, system resilience, and fast iteration aligned with business outcomes.
 
 ---
 
 ## Account Migration
-> **Active profile:** [@drjseifu3003](https://github.com/drjseifu3003)  
-> **Previous profile:** [@drjseifu1991](https://github.com/drjseifu1991) *(no longer accessible)*
 
-I migrated to this account after losing access to my previous GitHub account.  
-Historical repositories remain on `@drjseifu1991`; all new work is on `@drjseifu3003`.
+**Active GitHub profile:** [@drjseifu3003](https://github.com/drjseifu3003)  
+**Previous GitHub profile:** [@drjseifu1991](https://github.com/drjseifu1991) *(no longer accessible)*
+
+I migrated after losing access to my previous account.  
+Historical repositories remain on `@drjseifu1991`; all current and future work is published on `@drjseifu3003`.
 
 ---
 
@@ -46,42 +45,47 @@ Historical repositories remain on `@drjseifu1991`; all new work is on `@drjseifu
 
 <br/>
 
-| Domain | Focus |
+| Area | Professional Focus |
 | :-- | :-- |
-| **Agentic AI & RAG** | Multi-step orchestration, retrieval pipelines, context grounding, workflow automation |
-| **Platform Architecture** | AWS serverless, microservices, API design, event-driven systems |
-| **Full-Stack Engineering** | React/Next.js frontend architecture, Node.js backend services |
-| **Production Operations** | CI/CD, Docker, monitoring, performance and security hardening |
+| **Agentic AI & RAG** | Agent orchestration, retrieval pipelines, grounding quality, workflow automation |
+| **Architecture** | Distributed systems, serverless on AWS, microservices, event-driven design |
+| **Full-Stack Delivery** | React/Next.js frontend architecture, Node.js backend services, API design |
+| **Production Readiness** | Security hardening, observability, performance optimization, CI/CD |
 
 ---
 
-## Project Impact
+## Selected Project Impact
 
 - **Healium CKD Medical Platform**  
-  Architected interface and backend hardening for an FDA-cleared healthcare platform with clinician-centered UX and strong data protection.
+  Architected interface and backend hardening for an FDA-cleared healthcare platform, with emphasis on data protection and calm clinician-focused UX.
 
 - **AI Voice Receptionist**  
-  Built a real-time voice automation system for inbound operations and workflow execution.
+  Delivered real-time voice automation for inbound operations and business workflow execution.
 
 - **IntuitySync AI**  
-  Designed a scalable social automation platform with modular architecture and high availability.
+  Designed and shipped a scalable AI-powered social automation platform with modular, high-availability architecture.
+
+- **Roasform**  
+  Built a lead-generation platform with CRM-integrated workflows for conversion-focused operations.
 
 ---
 
 ## Build Projects Together
-I work with teams that need senior technical leadership and hands-on execution to ship products that hold up in production.
 
-- AI-first product architecture  
-- RAG and agentic workflow implementation  
-- Full-stack SaaS delivery from idea to launch  
+I partner with founders and teams to build high-quality products from concept to production:
+
+- Agentic AI and RAG product implementation  
+- Full-stack SaaS architecture and execution  
+- Reliable cloud deployment and long-term scalability  
 
 <div align="center">
   <a href="mailto:Derejeseifu3030@gmail.com">
-    <img src="https://img.shields.io/badge/Start%20a%20Project-14532d?style=for-the-badge&logo=maildotru&logoColor=86efac" />
+    <img src="https://img.shields.io/badge/Start%20Your%20Project-14532d?style=for-the-badge&logo=minutemailer&logoColor=86efac" />
   </a>
 </div>
 
 ---
 
-## Search Keywords
+## Core Search Keywords
+
 Software Architect, Senior Full-Stack Engineer, Agentic AI Engineer, RAG Systems, AI Workflow Automation, Next.js, Node.js, AWS Lambda, SaaS Architecture, Healthcare Software Engineering.
