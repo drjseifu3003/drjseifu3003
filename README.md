@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=220&section=header&text=Dereje%20Seifu&fontSize=75&fontAlignY=40&animation=twinkling&desc=Software%20Architect%20•%20AI%20Systems%20Specialist&descAlignY=65&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Dereje%20Seifu&fontSize=70&animation=fadeIn" width="100%" />
 
   <br/>
 
@@ -9,7 +9,6 @@
   [![Consultation](https://img.shields.io/badge/BOOK_A_CALL-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/derejeseifu3030/30min)
 
 </div>
-
 ---
 
 ### 🌐 The Architectural Vision
