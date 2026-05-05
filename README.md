@@ -1,9 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Dereje%20Seifu&fontSize=70&animation=fadeIn" width="100%" />
-  
-  ### 🏛️ Software Architect | Senior Full-Stack Engineer
+  ### Software Architect | Senior Full-Stack Engineer
   **Specializing in Agentic AI, RAG Architectures & High-Stakes SaaS**
-  
   <br/>
   <a href="https://derejeseifu.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-166534?style=for-the-badge&logo=vercel&logoColor=white" />
