@@ -66,6 +66,18 @@ I no longer have access to that account.
 
 ---
 
+### 📊 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=drjseifu3003&theme=tokyo-night&hide_border=true" />
+</p>
+
+### ⚡ Activity Overview
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drjseifu3003&theme=tokyonight" />
+</p>
+
+---
+
 ### 🤝 Let’s Collaborate
 I work with founders and teams who need reliable execution across architecture, development, and deployment.
 
