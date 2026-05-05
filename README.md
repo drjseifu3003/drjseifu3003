@@ -1,60 +1,65 @@
-<h1 align="center">Dereje Seifu</h1>
-<p align="center">
-  <strong>Software Architect • Senior Full-Stack Engineer • Agentic AI & RAG Systems Specialist</strong><br/>
-  Architecting secure, scalable AI and SaaS platforms from concept to production.
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://derejeseifu.vercel.app/">Portfolio</a> •
-  <a href="https://linkedin.com/in/dereje-seifu-834010199">LinkedIn</a> •
-  <a href="mailto:Derejeseifu3030@gmail.com">Email</a> •
-  <a href="https://calendly.com/derejeseifu3030/30min">Schedule Call</a>
-</p>
+# ⚡ Dereje Seifu
+### **Software Architect • Senior Full-Stack Engineer**
+**Specializing in Agentic AI & RAG Systems**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://derejeseifu.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dereje-seifu-834010199)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Derejeseifu3030@gmail.com)
+[![Schedule](https://img.shields.io/badge/Schedule_Call-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/derejeseifu3030/30min)
 
 ---
 
-## Account Migration
-I previously used **[@drjseifu1991](https://github.com/drjseifu1991)** and no longer have access to that account.  
-My active profile is **[@drjseifu3003](https://github.com/drjseifu3003)**.
+> **Executive Summary:** I architect and ship production-grade AI and SaaS platforms. With a startup-hardened career, I bridge the gap between complex AI orchestration (Agentic AI/RAG) and scalable cloud infrastructure.
+
+</div>
+
+## 🛠 Tech Stack & Expertise
+
+| Category | Skills |
+| :--- | :--- |
+| **AI & Automation** | Agentic Workflows • RAG Pipelines • LangChain • n8n • LLM Evaluation |
+| **Frontend** | React • Next.js • TypeScript • Tailwind CSS • UX Design |
+| **Backend & Cloud** | Node.js • NestJS • FastAPI • AWS (Lambda/S3/RDS) • Serverless |
+| **Data & DevOps** | PostgreSQL • Supabase • Docker • CI/CD • Monitoring & Observability |
 
 ---
 
-## Executive Summary
-I am a Software Architect and Senior Full-Stack Engineer with a startup-focused career delivering production systems under real business constraints. I specialize in designing and shipping AI-enabled platforms that are secure, maintainable, and built for scale.
+## 🚀 Key Projects
 
-My work is centered on **Agentic AI systems** and **Retrieval-Augmented Generation (RAG)** architectures, including orchestration, tool integration, evaluation loops, and production hardening. I build end-to-end products across React/Next.js frontends, Node.js service layers, and AWS serverless infrastructure, with strong emphasis on reliability, observability, and security.
-
-I have led architecture and hardening efforts for high-stakes healthcare software, including an FDA-cleared medical platform, with careful attention to compliance requirements, data protection, and clinician-centered UX.
-
----
-
-## Core Expertise
-- Software architecture for AI-first and SaaS products
-- Agentic AI system design (multi-step workflows, tool use, orchestration)
-- RAG pipelines (retrieval quality, grounding, context management, response reliability)
-- Serverless and cloud-native backend engineering on AWS
-- Production reliability: performance tuning, monitoring, and incident resilience
-- End-to-end ownership: architecture, implementation, deployment, and iteration
+*   **AI Voice Receptionist** – Voice automation for inbound operations and workflow execution.
+*   **Roasform** – Lead generation platform with CRM-integrated backend workflows.
+*   **IntuitySync AI** – Scalable AI-driven social automation platform.
+*   **Water Utility Management** – Enterprise SaaS platform supporting high operational reliability.
 
 ---
 
-## Technology Focus
-`TypeScript` `React` `Next.js` `Node.js` `NestJS` `FastAPI`  
-`AWS Lambda` `PostgreSQL` `Supabase` `Docker` `LangChain` `n8n` `CI/CD`
+## 📈 GitHub Stats & Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=drjseifu3003&theme=github-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+  <br/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=drjseifu3003&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drjseifu3003&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
-## Selected Projects
-- **AI Voice Receptionist** - Production voice automation for inbound operations and workflow execution
-- **Roasform** - Lead generation platform with CRM-integrated backend workflows
-- **IntuitySync AI** - AI-driven social automation platform designed for scale
-- **Water Utility Management System** - Enterprise SaaS platform supporting high user volume and operational reliability
+## 🏗 Experience Focus
+*   **Agentic AI Architecture:** Designing multi-step workflows, tool integration, and autonomous agents.
+*   **Production Hardening:** Scaling systems for healthcare (FDA-cleared) and enterprise utilities.
+*   **Full-Stack Ownership:** From Figma design and UI/UX to serverless cloud deployment.
 
 ---
 
-## Contact
-I partner with teams that need senior engineering leadership and production-grade execution in AI and full-stack systems.
+## 📬 Connect with Me
+I partner with teams looking for senior engineering leadership to build high-stakes AI systems.
 
-- Email: [Derejeseifu3030@gmail.com](mailto:Derejeseifu3030@gmail.com)
-- Portfolio: [derejeseifu.vercel.app](https://derejeseifu.vercel.app/)
-- LinkedIn: [dereje-seifu](https://linkedin.com/in/dereje-seifu-834010199)
+*   **Portfolio:** [derejeseifu.vercel.app](https://derejeseifu.vercel.app/)
+*   **LinkedIn:** [dereje-seifu](https://linkedin.com/in/dereje-seifu-834010199)
+*   **Legacy Account:** [@drjseifu1991](https://github.com/drjseifu1991) (Migration to active profile: **@drjseifu3003**)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=drjseifu3003&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
