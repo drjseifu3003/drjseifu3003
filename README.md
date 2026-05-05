@@ -1,75 +1,65 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=180&section=header&text=Dereje%20Seifu&fontSize=65&fontAlignY=45&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=220&section=header&text=Dereje%20Seifu&fontSize=75&fontAlignY=40&animation=twinkling&desc=Software%20Architect%20•%20AI%20Systems%20Specialist&descAlignY=65&descSize=20" width="100%" />
 
-  ### **Software Architect • Senior Full-Stack Engineer**
-  **Bridging the gap between complex AI Orchestration and Production Scale.**
+  <br/>
 
-  <p align="center">
-    <a href="https://derejeseifu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel" /></a>
-    <a href="https://linkedin.com/in/dereje-seifu-834010199"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
-    <a href="mailto:Derejeseifu3030@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a>
-    <a href="https://calendly.com/derejeseifu3030/30min"><img src="https://img.shields.io/badge/Book_a_Call-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white" /></a>
-  </p>
+  [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://derejeseifu.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dereje-seifu-834010199)
+  [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Derejeseifu3030@gmail.com)
+  [![Consultation](https://img.shields.io/badge/BOOK_A_CALL-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/derejeseifu3030/30min)
+
 </div>
 
 ---
 
-### 🛡️ The Mission
-I specialize in architecting **Agentic AI** and **RAG systems** for high-stakes environments. My focus is on moving beyond "demos" to build production-hardened platforms that prioritize **security, observability, and business ROI.** 
+### 🌐 The Architectural Vision
+I transform complex business requirements into **production-hardened AI ecosystems**. My work specializes in bridging the gap between innovative **Agentic AI** concepts and the rigorous stability required for **FDA-cleared** medical platforms and enterprise SaaS.
 
-I have a proven track record in delivering **FDA-cleared medical software** and enterprise-grade SaaS, ensuring compliance and reliability are baked into the architecture from day one.
-
----
-
-### 🧬 Expertise Spectrum
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 Intelligence & Automation</h4>
-      <ul>
-        <li><b>Agentic Systems:</b> Multi-agent orchestration & tool-use loops.</li>
-        <li><b>Advanced RAG:</b> Retrieval quality, grounding, and evaluation.</li>
-        <li><b>Workflow Automation:</b> LangChain and n8n production pipelines.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🏗️ Architecture & Scale</h4>
-      <ul>
-        <li><b>Cloud Native:</b> AWS Serverless, Lambda, and Event-driven design.</li>
-        <li><b>Full-Stack:</b> TypeScript, Next.js, Node.js, and FastAPI.</li>
-        <li><b>Data Integrity:</b> PostgreSQL, Supabase, and Vector Databases.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- **Strategic Ownership:** Delivering end-to-end systems from architectural blueprint to cloud deployment.
+- **AI Hardening:** Transitioning RAG and Agentic workflows from "proof-of-concept" to secure, observable production environments.
+- **Enterprise Scale:** Engineering for high-concurrency, reliability, and security compliance.
 
 ---
 
-### 🏆 Selected Architectural Deliverables
+### 🛠️ Technical Ecosystem
 
-*   **Medical Dashboard (Healium CKD)** — Engineered the UI/UX and architectural hardening for an FDA-cleared healthcare platform.
-*   **AI Voice Receptionist** — Built a high-concurrency voice automation system for real-time inbound operations.
-*   **Roasform** — Developed a CRM-integrated lead generation backend focusing on workflow reliability.
-*   **Water Utility SaaS** — Architected a high-volume enterprise management system for operational stability.
-
----
-
-### 🛠️ Core Technology Stack
-<p align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=ts,nextjs,nodejs,nestjs,py,fastapi,aws,postgres,supabase,docker,githubactions,figma&perline=12" />
+</div>
+
+| Capability | Specialization |
+| :--- | :--- |
+| **Artificial Intelligence** | Agentic Orchestration • RAG Pipelines • LangChain • n8n Automation |
+| **Systems Engineering** | AWS Serverless • Microservices • Event-Driven Design • API Hardening |
+| **Product Delivery** | UI/UX Architecture • Security Compliance • Performance Optimization |
+
+---
+
+### 🚀 High-Impact Deliverables
+
+*   **Medical Dashboard (Healium CKD)**  
+    *Architected the interface and backend hardening for an FDA-cleared healthcare platform, prioritizing clinician UX and data security.*
+*   **AI Voice Receptionist**  
+    *Engineered a real-time voice automation system for production-scale inbound operations and automated workflow execution.*
+*   **IntuitySync AI**  
+    *Designed a social automation engine built for scale, focusing on modular architecture and high-availability.*
+
+---
+
+### 📊 Professional Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=drjseifu3003&show_icons=true&theme=tokyonight&hide_border=true&title_color=3182ce&icon_color=3182ce&text_color=a0aec0" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drjseifu3003&layout=compact&theme=tokyonight&hide_border=true&title_color=3182ce&text_color=a0aec0" height="150" />
 </p>
 
 ---
 
 ### 🤝 Strategic Partnership
-I partner with startups and enterprises that need more than just code—they need a technical leader who understands **product-market fit, security compliance, and architectural longevity.**
-
-> **Current Availability:** Open to high-impact architectural challenges and senior-level consultancy.
+I am available for senior architectural consultancy and high-impact project leadership. I partner with teams that value technical excellence and long-term system integrity.
 
 <div align="center">
   <br/>
-  <sub>Active Profile: <b>@drjseifu3003</b> | Migration from @drjseifu1991</sub>
+  <sub>Active Profile: <b>@drjseifu3003</b> | Migrated from @drjseifu1991</sub>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=drjseifu3003&label=PROSPECT+VIEWS&color=0d1117&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=drjseifu3003&label=PROFESSIONAL+REACH&color=3182ce&style=flat-square" />
 </div>
