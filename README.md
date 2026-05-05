@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:052e16,50:14532d,100:22c55e&height=185&section=header&text=Dereje%20Seifu&fontSize=56&fontColor=dcfce7&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:022c22,25:065f46,50:16a34a,75:22c55e,100:86efac&height=220&section=header&text=Dereje%20Seifu&fontSize=64&fontColor=f0fdf4&animation=fadeIn&fontAlignY=38&desc=Software%20Architect%20•%20Senior%20Full-Stack%20Engineer%20•%20Agentic%20AI%20%26%20RAG&descAlignY=58&descSize=18&descAlign=50" width="100%" />
   <h3>Software Architect • Senior Full-Stack Engineer</h3>
   <p><strong>Agentic AI • RAG Systems • Production SaaS Platforms</strong></p>
 
