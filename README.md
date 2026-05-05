@@ -33,13 +33,19 @@ My work focuses on turning complex requirements into secure, scalable, and maint
 
 > **Official active profile:** [@drjseifu3003](https://github.com/drjseifu3003)  
 > **Previous profile:** [@drjseifu1991](https://github.com/drjseifu1991) *(no longer accessible)*  
->  
+>
 > I migrated to this account after losing access to my previous GitHub profile.  
-> Historical work and legacy repositories are on `@drjseifu1991`; all new activity is on `@drjseifu3003`.
+> Historical work and legacy repositories are on `@drjseifu1991`; all new work is on `@drjseifu3003`.
 
 ---
 
 ## Technical Ecosystem
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,py,fastapi,aws,postgres,supabase,docker,githubactions&perline=6" />
+</div>
+
+<br/>
 
 | Domain | Focus |
 | :-- | :-- |
@@ -47,9 +53,6 @@ My work focuses on turning complex requirements into secure, scalable, and maint
 | **Platform Architecture** | AWS serverless, microservices, API design, event-driven systems |
 | **Product Engineering** | React/Next.js UI architecture, backend services, reliability engineering |
 | **Operations** | CI/CD, Docker, monitoring, performance and security hardening |
-
-**Core Stack**  
-`TypeScript` `React` `Next.js` `Node.js` `NestJS` `FastAPI` `AWS Lambda` `PostgreSQL` `Supabase` `Docker` `GitHub Actions`
 
 ---
 
@@ -63,27 +66,6 @@ My work focuses on turning complex requirements into secure, scalable, and maint
 
 - **IntuitySync AI**  
   Designed a scalable social automation platform with modular architecture and high-availability principles.
-
----
-
-## Contribution Graph & Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=drjseifu3003&theme=github-dark&hide_border=true&area=true&line=0ea5e9&point=38bdf8&color=94a3b8&title_color=e2e8f0" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drjseifu3003&theme=github_dark" />
-</p>
-
----
-
-## Professional Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=drjseifu3003&show_icons=true&theme=github_dark&hide_border=true&title_color=38bdf8&icon_color=0ea5e9&text_color=94a3b8" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drjseifu3003&layout=compact&theme=github_dark&hide_border=true&title_color=38bdf8&text_color=94a3b8" height="160" />
-</p>
 
 ---
 
