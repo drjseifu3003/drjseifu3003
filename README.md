@@ -1,66 +1,102 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Dereje%20Seifu&fontSize=70&animation=fadeIn" width="100%" />
-  
-  ### 🏛️ Software Architect | Senior Full-Stack Engineer
-  **Specializing in Agentic AI, RAG Architectures & High-Stakes SaaS**
-  <br/>
 
-  [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://derejeseifu.vercel.app/)
-  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dereje-seifu-834010199)
-  [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Derejeseifu3030@gmail.com)
-  [![Consultation](https://img.shields.io/badge/BOOK_A_CALL-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/derejeseifu3030/30min)
+# Dereje Seifu
+### Software Architect • Senior Full-Stack Engineer  
+**Agentic AI • RAG Systems • Production SaaS**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://derejeseifu.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1d4ed8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dereje-seifu-834010199)
+[![Email](https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Derejeseifu3030@gmail.com)
+[![Book Call](https://img.shields.io/badge/Book%20Call-0ea5e9?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/derejeseifu3030/30min)
 
 </div>
 
+---
 
-### 🌐 The Architectural Vision
-I transform complex business requirements into **production-hardened AI ecosystems**. My work specializes in bridging the gap between innovative **Agentic AI** concepts and the rigorous stability required for **FDA-cleared** medical platforms and enterprise SaaS.
+## Profile Continuity
 
-- **Strategic Ownership:** Delivering end-to-end systems from architectural blueprint to cloud deployment.
-- **AI Hardening:** Transitioning RAG and Agentic workflows from "proof-of-concept" to secure, observable production environments.
-- **Enterprise Scale:** Engineering for high-concurrency, reliability, and security compliance.
+I previously built my public GitHub history on **[@drjseifu1991](https://github.com/drjseifu1991)** and later lost access to that account.  
+My official active account is now **[@drjseifu3003](https://github.com/drjseifu3003)**.
+
+| Account | Status | Link |
+|---|---|---|
+| Current Professional Account | Active | [@drjseifu3003](https://github.com/drjseifu3003) |
+| Previous Account | Archived (access lost) | [@drjseifu1991](https://github.com/drjseifu1991) |
+
+> For transparency: prior contributions, repositories, and historical activity may appear under the previous account.
 
 ---
 
-### 🛠️ Technical Ecosystem
+## About
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,nodejs,nestjs,py,fastapi,aws,postgres,supabase,docker,githubactions,figma&perline=12" />
-</div>
+I architect and deliver production-grade systems for startups and high-stakes products.  
+My focus is turning complex AI requirements into stable, secure, and maintainable software.
 
-| Capability | Specialization |
-| :--- | :--- |
-| **Artificial Intelligence** | Agentic Orchestration • RAG Pipelines • LangChain • n8n Automation |
-| **Systems Engineering** | AWS Serverless • Microservices • Event-Driven Design • API Hardening |
-| **Product Delivery** | UI/UX Architecture • Security Compliance • Performance Optimization |
-
----
-
-### 🚀 High-Impact Deliverables
-
-*   **Medical Dashboard (Healium CKD)**  
-    *Architected the interface and backend hardening for an FDA-cleared healthcare platform, prioritizing clinician UX and data security.*
-*   **AI Voice Receptionist**  
-    *Engineered a real-time voice automation system for production-scale inbound operations and automated workflow execution.*
-*   **IntuitySync AI**  
-    *Designed a social automation engine built for scale, focusing on modular architecture and high-availability.*
+- End-to-end ownership from architecture to deployment
+- Agentic AI workflow design for real operational use
+- RAG systems with retrieval quality, grounding, and reliability controls
+- Secure full-stack SaaS engineering with performance and scalability in mind
+- Experience supporting FDA-cleared healthcare platform requirements
 
 ---
 
-### 📊 Professional Metrics
+## Technical Scope
+
+| Domain | Expertise |
+|---|---|
+| AI Architecture | Agentic orchestration, RAG pipelines, evaluation loops, tool-integrated workflows |
+| Backend & Cloud | Node.js, NestJS, FastAPI, AWS Lambda, event-driven services, API hardening |
+| Frontend Systems | React, Next.js, TypeScript, UX for high-focus professional environments |
+| Data & Delivery | PostgreSQL, Supabase, Docker, CI/CD, observability, release discipline |
+
+---
+
+## Core Stack
+
+`TypeScript` `React` `Next.js` `Node.js` `NestJS` `FastAPI`  
+`AWS Lambda` `PostgreSQL` `Supabase` `Docker` `LangChain` `n8n`
+
+---
+
+## Selected Deliverables
+
+- **Medical Platform (Healium CKD)**  
+  Architecture and hardening for an FDA-cleared healthcare product with security-focused engineering and clinician-centered UX.
+
+- **AI Voice Receptionist**  
+  Production voice automation system for inbound operations, workflow execution, and operational continuity.
+
+- **IntuitySync AI**  
+  Scalable automation platform designed for modularity, high availability, and long-term maintainability.
+
+---
+
+## Contribution Graph
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=drjseifu3003&show_icons=true&theme=tokyonight&hide_border=true&title_color=3182ce&icon_color=3182ce&text_color=a0aec0" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drjseifu3003&layout=compact&theme=tokyonight&hide_border=true&title_color=3182ce&text_color=a0aec0" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=drjseifu3003&theme=github-dark&hide_border=true&area=true&line=22c55e&point=22c55e&color=cbd5e1&title_color=e2e8f0" alt="Contribution Graph" />
+</p>
+
+## Activity Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drjseifu3003&theme=github_dark" alt="Activity Overview" />
+</p>
+
+## Professional Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=drjseifu3003&show_icons=true&theme=github_dark&hide_border=true&title_color=93c5fd&icon_color=22c55e&text_color=cbd5e1" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drjseifu3003&layout=compact&theme=github_dark&hide_border=true&title_color=93c5fd&text_color=cbd5e1" height="160" />
 </p>
 
 ---
 
-### 🤝 Strategic Partnership
-I am available for senior architectural consultancy and high-impact project leadership. I partner with teams that value technical excellence and long-term system integrity.
+## Contact
 
-<div align="center">
-  <br/>
-  <sub>Active Profile: <b>@drjseifu3003</b> | Migrated from @drjseifu1991</sub>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=drjseifu3003&label=PROFESSIONAL+REACH&color=3182ce&style=flat-square" />
-</div>
+I am available for senior architecture leadership, AI platform engineering, and full-stack product execution.
+
+- Portfolio: [derejeseifu.vercel.app](https://derejeseifu.vercel.app/)
+- LinkedIn: [dereje-seifu](https://linkedin.com/in/dereje-seifu-834010199)
+- Email: [Derejeseifu3030@gmail.com](mailto:Derejeseifu3030@gmail.com)
+- Call: [Schedule a consultation](https://calendly.com/derejeseifu3030/30min)
