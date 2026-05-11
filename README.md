@@ -3,6 +3,7 @@
   
   ### Software Architect | Senior Full-Stack Engineer
   **Specializing in Agentic AI, RAG Architectures & High-Stakes SaaS**
+
   
   
   <a href="https://derejeseifu.vercel.app/">
