@@ -7,17 +7,14 @@ I design and build secure, high-performance distributed systems, multi-tenant Sa
 
 ### 🎯 Core Focus Areas
 
-> [!NOTE]
-> **Agentic AI & Advanced RAG**  
-> Multi-agent systems (LangGraph), semantic/vector search (Qdrant), and custom confidence-gating retrieval pipelines.
+*   **🤖 Agentic AI & Advanced RAG**  
+    Orchestrating multi-agent systems via LangGraph, multimodal document processing (Gemini Vision), semantic search optimization (Qdrant), and custom confidence-gating retrieval pipelines.
 
-> [!TIP]
-> **Enterprise SaaS Architecture**  
-> Multi-tenant database design, secure row-level isolation (Supabase RLS), and robust background queues (BullMQ, Redis).
+*   **🏢 Enterprise SaaS Architecture**  
+    Multi-tenant database design, secure row-level isolation (Supabase RLS), and robust background queues (BullMQ, Redis) designed for high-concurrency event handling.
 
-> [!IMPORTANT]
-> **Cloud & High-Stakes Security**  
-> FDA/HIPAA compliant configurations, AWS microservices (ECS, Lambda), and containerized environments (Docker).
+*   **🛡️ Cloud & Regulated Security**  
+    Architecting environments that meet strict compliance requirements (HIPAA data isolation, FDA teleguidance safety metrics), AWS serverless, and containerization (Docker).
 
 ---
 
@@ -30,14 +27,6 @@ I design and build secure, high-performance distributed systems, multi-tenant Sa
 | **Backend & AI** | Node.js (NestJS) · FastAPI · LangGraph |
 | **Data & Vector** | PostgreSQL (Supabase) · Qdrant · Redis |
 | **Infra & DevOps** | AWS (ECS/Lambda) · Docker · GitHub Actions |
-
----
-
-### 📈 GitHub Stats & Insights
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=drjseifu3003&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&hide_rank=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drjseifu3003&layout=compact&theme=tokyonight&hide_title=true)
 
 ---
 
