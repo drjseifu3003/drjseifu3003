@@ -23,7 +23,7 @@ I design and build secure, high-performance distributed systems, multi-tenant Sa
 | Layer | Technologies & Tools |
 | :--- | :--- |
 | **Languages** | TypeScript · JavaScript · Python · SQL |
-| **Frontend** | Next.js · React · Redux Toolkit · Tailwind CSS |
+| **Frontend* & Mobile* | Next.js · React · React Native · Redux Toolkit · Tailwind CSS |
 | **Backend & AI** | Node.js (NestJS) · FastAPI · LangGraph |
 | **Data & Vector** | PostgreSQL (Supabase) · Qdrant · Redis |
 | **Infra & DevOps** | AWS (ECS/Lambda) · Docker · GitHub Actions |
