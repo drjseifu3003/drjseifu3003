@@ -3,6 +3,8 @@
 
 I design and build secure, high-performance distributed systems, multi-tenant SaaS platforms, and production-grade Agentic AI/RAG architectures. With 5+ years of full-stack experience, I focus on clean systems design, database security, and resilient background worker orchestration.
 
+
+
 ---
 
 ### 🎯 Core Focus Areas
