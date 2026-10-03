@@ -16,7 +16,7 @@ I design and build secure, high-performance distributed systems, multi-tenant Sa
     Multi-tenant database design, secure row-level isolation (Supabase RLS), and robust background queues (BullMQ, Redis) designed for high-concurrency event handling.
 
 *   **🛡️ Cloud & Regulated Security**  
-    Architecting environments that meet strict compliance requirements (HIPAA data isolation, FDA teleguidance safety metrics), AWS serverless, and containerization (Docker).
+    Architecting environments that meet strict compliance requirements (HIPAA data isolation, teleguidance safety metrics), AWS serverless, and containerization (Docker).
 
 ---
 
