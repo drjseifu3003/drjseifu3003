@@ -12,6 +12,7 @@ I design and build secure, high-performance distributed systems, multi-tenant Sa
 *   **🤖 Agentic AI & Advanced RAG**  
     Orchestrating multi-agent systems via LangGraph, multimodal document processing (Gemini Vision), semantic search optimization (Qdrant), and custom confidence-gating retrieval pipelines.
 
+
 *   **🏢 Enterprise SaaS Architecture**  
     Multi-tenant database design, secure row-level isolation (Supabase RLS), and robust background queues (BullMQ, Redis) designed for high-concurrency event handling.
 
